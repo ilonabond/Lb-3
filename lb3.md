@@ -10,4 +10,4 @@
 
 прикрепляю скриншоты:
 ![Screnshot](https://github.com/ilonabond/Lb-3/blob/main/Снимок%20экрана%202024-10-29%20в%2016.39.17.png)
-![Screnshot](https://github.com/ilonabond/Lb-3/blob/main/Снимок%20экрана%202024-10-29%20в%2016.45.45.png)
+![Screnshot](https://github.com/ilonabond/Lb-3/blob/main/Снимок%20экрана%202024-10-29%20в%2017.31.12.png)
